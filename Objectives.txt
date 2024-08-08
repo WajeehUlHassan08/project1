@@ -1,0 +1,7 @@
+Objectives:
+
+1- Identify the top players by overall rating and potential
+2- Identify the best young players (e.g., under 21) and veterans (e.g., over 30).
+3- Analyze which skill attributes are most common among top-rated players.
+4- Determine which countries have the highest number of top-rated players.
+5- Determine which nationalities are most represented in different leagues.
